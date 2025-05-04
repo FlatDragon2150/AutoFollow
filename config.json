@@ -22,13 +22,15 @@
 
   "auto_open_obs": false,
 
-  "server_browser": [1145, 565],
+ "server_browser": [2010, 757],
 
-  "server_search": [850, 645],
+  "server_search": [1522, 886],
 
-  "server_list": [845, 495],
+  "server_list": [1532, 643],
 
-  "join_game": [1075, 710],
+  "join_game": [1902, 982],
 
-  "leave_game": [645, 318]
+  "leave_game": [1238, 429],
+
+  "confirm_leave" : [1233,123]
 }
