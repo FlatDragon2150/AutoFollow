@@ -280,6 +280,8 @@ class AutoFollow:
         pyautogui.press("tab")
         pyautogui.moveTo(config["leave_game"])
         pyautogui.click()
+        pyautogui.moveTo(config["confirm_leave"])
+        pyautogui.click()
         inlobby = False
         time.sleep(10)  # Cooldown for checking if the player is online
 
